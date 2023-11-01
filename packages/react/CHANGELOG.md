@@ -1,5 +1,11 @@
 # @castilho-ui/react
 
+## 5.0.0
+
+### Major Changes
+
+- update de files
+
 ## 4.0.0
 
 ### Major Changes
