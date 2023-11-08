@@ -1,5 +1,11 @@
 # @castilho-ui/tokens
 
+## 7.0.0
+
+### Major Changes
+
+- "Created Component Toast"
+
 ## 6.0.0
 
 ### Major Changes
