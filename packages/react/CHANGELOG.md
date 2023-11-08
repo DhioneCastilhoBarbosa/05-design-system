@@ -1,5 +1,11 @@
 # @castilho-ui/react
 
+## 6.0.0
+
+### Major Changes
+
+- "created component tooltip"
+
 ## 5.0.1
 
 ### Patch Changes
