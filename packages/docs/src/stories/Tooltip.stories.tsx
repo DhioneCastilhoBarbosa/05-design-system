@@ -5,8 +5,8 @@ export default {
   title: "Form/Tooltip",
   component: Tooltip,
   args: {
-    children: <Button>Pass over me!</Button>,
-    content: "This is the element tooltip",
+    children: <Button>Passe Sobre</Button>,
+    content: "Este é o componente de Tooltip",
   },
   argTypes: {
     children: {
